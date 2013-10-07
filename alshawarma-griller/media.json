@@ -1,0 +1,61 @@
+{
+    "Feeds": [{
+            "name": "yahoo",
+            "url": "http://news.yahoo.com/rss/middle-east",
+            "category": "middle-east",
+            "image": "indescription"
+        }, {
+            "name": "yahoo",
+            "url": "http://news.yahoo.com/rss/world",
+            "category": "world"
+        }, {
+            "name": "google",
+            "url": "http://news.google.com/news/feeds?pz=1&cf=all&ned=uk&hl=en&topic=w&output=rss",
+            "category": "world",
+            "edition": "uk"
+        }, {
+            "name": "google",
+            "url": "http://news.google.com/news/feeds?cf=all&ned=en_il&hl=en&topic=w&output=rss",
+            "category": "world",
+            "edition": "israel"
+        }, {
+            "name": "google",
+            "url": "http://news.google.com/news/feeds?cf=all&ned=en_il&hl=en&topic=awkl&output=rss",
+            "category": "middle-east",
+            "edition": "israel"
+        }, {
+            "name": "aljazeera",
+            "url": "http://feeds.aljazeeraportal.net/aje/live/1/2008521161625794450?removetables=1",
+            "category": "middle-east"
+        }, {
+            "name": "aljazeera",
+            "url": "http://feeds.aljazeeraportal.net/aje/live/1/200779101832373555?removetables=1",
+            "category": "world"
+        }, {
+            "name": "haaretz",
+            "url": "http://feeds.feedburner.com/InternationalRss?format=xml",
+            "category": "world"
+        }, {
+            "name": "haaretz",
+            "url": "http://feeds.feedburner.com/InternationalRss?format=xml",
+            "category": "world"
+        }, {
+            "name": "jpost",
+            "url": "http://www.jpost.com/Rss/RssFeedsMiddleEastNews.aspx",
+            "category": "middle-east"
+        }, {
+            "name": "jpost",
+            "url": "http://www.jpost.com/RSS/RssFeedsInternationalNews.aspx",
+            "category": "world"
+        }, {
+            "name": "albawba",
+            "url": "http://www.albawaba.com/rss/news",
+            "category": "middle-east"
+        }, {
+            "name": "alarabiya",
+            "url": "http://english.alarabiya.net/.mrss/en/News.xml",
+            "category": "middle-east"
+        }
+
+    ]
+}
